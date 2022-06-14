@@ -18,12 +18,12 @@ Telegram Bot to store Posts and Documents and it can Access by Special Links.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WhitePrime/File-Sharing-Bot)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anthoniraj82627/File-Sharing-Bot-14th)</br>
 
 
 #### Deploy in your VPS
 ```
-git clone https://github.com/WhitePrime/File-Sharing-Bot
+git clone https://github.com/Anthoniraj82627/File-Sharing-Bot-14th
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
